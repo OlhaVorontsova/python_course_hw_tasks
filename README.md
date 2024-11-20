@@ -16,3 +16,4 @@
 - `HW_M3_1_Vorontsova.ipynb`    - Модуль 3.1. Домашнє завдання: Введення у Pandas та Numpy
 - `HW_M3_2_Vorontsova.ipynb`    - Модуль 3.2. Домашнє завдання: Основи роботи з даними у Pandas
 - `HW_M3_3_Vorontsova.ipynb`    - Модуль 3.3. Домашнє завдання: Розширені методи обробки даних у Pandas
+- `HW_M3_4_Vorontsova.ipynb`    - Модуль 3.4. Домашнє завдання: apply, groupby, pivot_table
